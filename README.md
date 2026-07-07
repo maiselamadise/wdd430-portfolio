@@ -34,3 +34,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# WDD 430 Portfolio
+
+This repository contains my WDD 430 portfolio project built with Next.js, TypeScript, and Tailwind CSS.
+
+## Live Demo
+
+https://wdd430-portfolio-k879-8nfj3afuh-maiselamadises-projects.vercel.app
+
+## Technologies Used
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- React
+
+## Author
+
+Maisela Manhla Madise
